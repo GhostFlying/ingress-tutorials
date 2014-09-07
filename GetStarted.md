@@ -40,6 +40,8 @@ Hack第一个Portal
 ----------------
 如果你所在的区域不是过于偏僻的话，相信找到一个距离较近的 Portal 并不是什么难事，根据游戏里显示的方向（不要看游戏里地图上的道路，原因见 [Ingress 中国特色问题][ingress_problem_in_china]），靠近 Portal，当 Portal 在你脚下的黄圈范围内时（黄圈大致是35米的范围），点击Portal，便可以看到原本灰色的 Hack 按钮已经变成可以点击的状态。点击按钮，完成你的第一次 Hack。如果顺利的话，便可以看到道具飞出的动画，最后会有画面显示此次 Hack 获得的道具类别，等级和数量，具体细节请参见 [Ingress 道具介绍][ingress_items_intro]，[Ingress 进阶教程][ingress_advanced_tutorial]。  
 <img src="http://ghostflying-static.qiniudn.com/ingress_portal_info.png" width="225" height="300" />
+<img src="http://ghostflying-static.qiniudn.com/ingress_hack_portal_2.PNG" width="225" height="300" />
+<img src="http://ghostflying-static.qiniudn.com/ingress_hack_portal_1.PNG" width="225" height="300" />
 
 关于快速升级
 -----------
