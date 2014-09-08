@@ -5,7 +5,7 @@ ingress-tutorials
 
 本项目为面向 Ingress 基础教程，主要面向 [Hangzhou Resistance](http://www.hzres.net/) 社群，同时也欢迎其它 Ingress玩家参考。  
 
-本项目参考了由 Taiwan Resistance 发布在 ingress.tw 上的[教程](http://ingress.tw/guide)。  
+本项目参考了由 Taiwan Resistance 发布在 ingress.tw 上的[教程](http://ingress.tw/guide)，同时修改使用了其部分图片和数据。    
 
 Ingress 所有图片版权由 Google 所有。  
 
