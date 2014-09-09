@@ -56,5 +56,6 @@ Ultra Strike 的攻击范围从 L1 - L8 分别为 10m，13m，16m，18m，21m，
 玩家 Hack Porral 时能低概率获得 ADA 和 JARVIS，没有等级区分。  
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_items_JARVAS.png" width="192" height="320" />
+<img src="http://ghostflying-static.qiniudn.com/ingress_items_ADA.jpg" width="192" height="320" />
 
 [ingress_advanced_tutorial]: https://github.com/GhostFlying/ingress-tutorials
