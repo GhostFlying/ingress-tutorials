@@ -5,7 +5,9 @@
 Resonator
 ---------
 
-Resonator 作为构筑 Portal 的基础道具，在游戏的进程中发挥着重要作用。Resonator 共有L1 - L8 8个等级。每个 Portal 的等级都由其8个 Resonator 决定，比较简单的算法是8个 Resonator 等级之和/8，即为 Portal 的等级。  
+Resonator 作为构筑 Portal 的基础道具，在游戏的进程中发挥着重要作用。Resonator 共有L1 - L8 8个等级。每个 Portal 的等级都由其8个 Resonator 决定，比较简单的算法是8个 Resonator 等级之和/8，即为 Portal 的等级。 
+
+每个玩家能部署在一个 Portal 上的不同等级的 Resonator 数量是有限的，从 L8 - L1 分别是 8 7 66 55 4444 3333 2222 11111111。  
 
 玩家 Hack Portal 时能较大概率获得自身等级和 Portal 等级两者之中较低者 ±2 等级的 Resonator。 
 
@@ -41,6 +43,18 @@ Ultra Strike 的攻击范围从 L1 - L8 分别为 10m，13m，16m，18m，21m，
 
 玩家 Hack Portal 时能较低概率获得自身等级和 Portal 等级两者之中较低者等级的 Ultra Strike。
 
-<img src="http://ghostflying-static.qiniudn.com/ingress_items_US.png" width="192" height="320" />
+<img src="http://ghostflying-static.qiniudn.com/ingress_items_US.png" width="192" height="320" />  
+
+### ADA Refactor / JARVIS Virus
+
+所谓蓝毒/绿毒，最为稀有的武器，可以直接将 Portal 转至对应阵营。消耗 XM 为Portal 等级 * 1000，但必须少于玩家的 XM 上限，即你使用完毒后 XM 不能为0。  
+
+此外，若将 Portal 转至己方阵营，所有 Resonator 和 MOD 的所有人都会变成自己，此时若超过了对应的数量限制，将不再能部署新的 Resonator 和 MOD。  
+
+己方阵营的毒（如蓝毒对蓝军）通常用于摧毁较多 Link 的 Portal，敌对阵营的毒则多用于消除阻碍连 Field 的己方 Link。关于己方阵营的毒请注意，使用毒摧毁任何 Link, Field, Portal 不会获得任何 AP。  
+
+玩家 Hack Porral 时能低概率获得 ADA 和 JARVIS，没有等级区分。  
+
+<img src="http://ghostflying-static.qiniudn.com/ingress_items_JARVAS.png" width="192" height="320" />
 
 [ingress_advanced_tutorial]: https://github.com/GhostFlying/ingress-tutorials
