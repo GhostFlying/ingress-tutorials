@@ -27,6 +27,8 @@ Hack Portal 时，有一定几率可以获得对应 Portal 的 key，但是当�
 Weapons
 -------
 
+Weapons 即用于摧毁敌对阵营对 Portal 占领的道具。除 ADA 和 JARVIS 外，其余均可以通过在游戏主界面长按选择 Fire XMP 来使用。    
+
 ### XMP
 
 XMP 作为游戏中主要的攻击道具，也是最容易获得的攻击道具，是玩家摧毁敌对 Portal 占领的最常用武器。XMP 同样也分为 L1 - L8 8个等级，等级越高的 XMP 拥有越高的伤害和越大的攻击范围。  
@@ -70,6 +72,8 @@ Power Cube 是玩家补充 XM 的重要来源，也是战时不可缺少的道�
 Mod
 ---
 
+Mod 是 Portal 的增强道具，可通过 Portal 详情界面的 Mod 按钮查看每个 Portal 部署的 Mod 或在此部署新的 Mod，每个玩家在每个 Portal 上只能部署2个 Mod。  
+
 ### Portal Shield
 
 Portal Shield，增加 Portal 防御的 Mod，分为 Common, Rare, Very Rare 3个级别，获得难度依次递增，在攻击时被摧毁的概率也依次下降。总体来说，Common 级别的 Portal Shild 获得难度比较低，建议可以对相对重要的 Portal 随手插盾。  
@@ -84,6 +88,43 @@ Link Amp 通过 Hack 只能获得 Rare 等级的，Very Rare 级别需要通过 
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_items_link_amp_summary.png" width="400" height="200" />
 
+### Heat Sink
+
+Heat Sink 可以缩短 Portal 两次 Hack 之间的时间间隔，其有 Common, Rare, Very Rare 3个级别，分别减少 20%，50% 和 70% 的时间间隔。如一个 Portal 没有任何 Heat Sink Mod 时，两次 Hack 之间需要间隔5分钟以上，当插有一个 Rare 级别的 Heat Sink 时，仅需要 2.5封装即可再次 Hack，这对于快速 Farm 有着比较重要的意义。  
+
+此外，Heat Sink 还可以立刻重置当前 Hack 冷却时间，甚至还包括 Burn out 的计时。因此其在迫切需要获得 Portal Key 的时候有着比较明显的意义。   
+
+与 Link Amp 类似，Heat Sink 在一个 Portal 多次使用时有效果递减，除效果最大的有 100% 的效果外，其余均仅产生一半的效果。可根据如下公式计算：  
+Cooldown decrease = 1-(1-HHS)*(1-HS/2)*(1-HS/2)*(1-HS/2)  
+其中 HHS 为效果最强的 Heat Sink 减少的比例，HS 为其它 Heat Sink 减少的比例。因此，不建议重复插低等级 Heat Sink，效果并不明显。    
+
+Heat Sink 根据级别不同，使用分别消耗 400, 800 和 1000 XM。  
+
+Heat Sink 的获得概率并不算低，Common 级别的并不算特别少见，但 Rare 和 Very Rare 的还是相对比较稀少的。  
+
+<img src="http://ghostflying-static.qiniudn.com/ingress_items_HeatSink.png" width="192" height="320" />
+
+### Multi-hack 
+
+Multi-hack 可以增加每个 Portal burn out 之前的 hack 次数，共有 Common, Rare, Very Rare 3个级别，分别增加4次，8次和12次 Hack 次数。通常用于 farm 区域或工 po，床 po 等能稳定长期 hack 的 Portal。  
+
+与 Heat Sink 类似，当一个 Portal 插有不止一个 Multi-hack 的时候，除效果最强一个 Multi-hack 外，其它都将减半。  
+
+Multi-hack 根据级别不同，使用分别消耗 400, 800 和 1000 XM。  
+
+Multi-hack 的获得概率与 Heat Sink 相仿。  
+
+<img src="http://ghostflying-static.qiniudn.com/ingress_items_MultiHack.png" width="192" height="320" />  
+
+### Force Amp
+
+Force Amp 能增加 Portal 对敌对玩家反击的伤害，仅有 Rare 级别，效果为反击伤害 +2X，通常用于保护 Portal，但没有 Portal Shield 的保护，仅有 Force Amp 的 Portal 非常脆弱。  
+
+当插有多个 Force Amp 时，其效果衰减类似于 Link Amp，第一个发挥 100% 的效果，第二个发挥 25% 的效果，其后仅有 12.5%的效果。  
+
+Force Amp 与 Rare 级别的其它 Mod 相比并不算低。  
+
+<img src="http://ghostflying-static.qiniudn.com/ingress_items_ForceAmp.png" width="192" height="320" />   
 
 
 [ingress_advanced_tutorial]: https://github.com/GhostFlying/ingress-tutorials
