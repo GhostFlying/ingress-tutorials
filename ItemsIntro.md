@@ -69,7 +69,7 @@ Power Cube 是玩家补充 XM 的重要来源，也是战时不可缺少的道�
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_items_PowerCube.png" width="192" height="320" />
 
-Mod
+Mods
 ---
 
 Mod 是 Portal 的增强道具，可通过 Portal 详情界面的 Mod 按钮查看每个 Portal 部署的 Mod 或在此部署新的 Mod，每个玩家在每个 Portal 上只能部署2个 Mod。  
@@ -90,7 +90,7 @@ Link Amp 通过 Hack 只能获得 Rare 等级的，Very Rare 级别需要通过 
 
 ### Heat Sink
 
-Heat Sink 可以缩短 Portal 两次 Hack 之间的时间间隔，其有 Common, Rare, Very Rare 3个级别，分别减少 20%，50% 和 70% 的时间间隔。如一个 Portal 没有任何 Heat Sink Mod 时，两次 Hack 之间需要间隔5分钟以上，当插有一个 Rare 级别的 Heat Sink 时，仅需要 2.5封装即可再次 Hack，这对于快速 Farm 有着比较重要的意义。  
+Heat Sink 可以缩短 Portal 两次 Hack 之间的时间间隔，其有 Common, Rare, Very Rare 3个级别，分别减少 20%，50% 和 70% 的时间间隔。如一个 Portal 没有任何 Heat Sink Mod 时，两次 Hack 之间需要间隔5分钟以上，当插有一个 Rare 级别的 Heat Sink 时，仅需要 2.5分钟即可再次 Hack，这对于快速 Farm 有着比较重要的意义。  
 
 此外，Heat Sink 还可以立刻重置当前 Hack 冷却时间，甚至还包括 Burn out 的计时。因此其在迫切需要获得 Portal Key 的时候有着比较明显的意义。   
 
@@ -125,6 +125,33 @@ Force Amp 能增加 Portal 对敌对玩家反击的伤害，仅有 Rare 级别�
 Force Amp 与 Rare 级别的其它 Mod 相比并不算低。  
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_items_ForceAmp.png" width="192" height="320" />   
+
+### Turret
+
+Turret 能增加 Portal 反击的频率和额外的 Hit Bonus，目前仅有 Rare 级别，效果为 +2x 攻击频率，+30% Hit Bonus。通常建议和 Force Amp 一起使用。  
+
+与 Force Amp 类似，多个 Turret 的频率增加效果会发生递减，也为第一个 100%，第二个 25%，其后均为 12.5%，但其 Hit Bonus 不产生递减（待确认）。  
+
+Turret 获得概率与 Force Amp 相当。  
+
+<img src="http://ghostflying-static.qiniudn.com/ingress_items_Turret.png" width="192" height="320" />  
+
+Capsule
+-------
+
+Capsule 主要用于存放道具，仅有 Rare 级别，容量100，在其内的道具依旧计入总道具数，但当 Portal Key 存放在其中的时候视为不存在，因此可以利用这点 Hack 获得更多的 Key。此外，Capsule 的主要用途是玩家之间交换道具。  
+
+Capsule 的获得概率相对较低，但也基本不存在什么消耗。  
+
+<img src="http://ghostflying-static.qiniudn.com/ingress_items_Capsule.png" width="192" height="320" />  
+
+Media
+-----
+
+游戏剧情影片，其中会隐藏有谜题，解开后可以获得可使用的 passcode，可在游戏里兑换道具，不过对已一般玩家而言意义并不大。此外，passcode 存在使用次数限制，因此超过一定时间的 Media 基本无用。  
+
+<img src="http://ghostflying-static.qiniudn.com/ingress_items_Media.png" width="192" height="320" />  
+
 
 
 [ingress_advanced_tutorial]: https://github.com/GhostFlying/ingress-tutorials
