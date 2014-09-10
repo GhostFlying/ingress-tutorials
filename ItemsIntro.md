@@ -35,7 +35,7 @@ XMP 作为游戏中主要的攻击道具，也是最容易获得的攻击道具�
 
 玩家 Hack Portal 时能较大概率获得自身等级和 Portal 等级两者之中较低者 ±2 等级的 XMP。
 
-<img src="http://ghostflying-static.qiniudn.com/ingress_items_xmp_summary.jpg" width="400" height="400" />
+<img src="http://ghostflying-static.qiniudn.com/ingress_items_xmp_summary_small.jpg" width="400" height="400" />
 
 ### Ultra Strike
 
@@ -152,6 +152,9 @@ Media
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_items_Media.png" width="192" height="320" />  
 
+
+
++ 本页图片收集感谢杭州蓝军：wyc738888362, EvinceMoi, lspqsea, kabixiaoxiao, FrankShaw  
 
 
 [ingress_advanced_tutorial]: https://github.com/GhostFlying/ingress-tutorials
