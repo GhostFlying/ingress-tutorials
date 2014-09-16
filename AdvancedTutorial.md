@@ -95,7 +95,7 @@ XMP 和 US 的一种使用方法，长按 Fire 键，会出现从大到小不断
 
 ### MOD
 
-Mod 会显著影响到攻击 Portal 的难度，面对有较多防御性 Mod 的 Portal 时，建议低级玩家量力而行。Mod 在被攻击时有一定概率被摧毁，除 Shield 外均表现飞出 Portal 的动画，Shield 被摧毁时则表现为护盾闪烁红色。  
+Mod 会显著影响到攻击 Portal 的难度，面对有较多防御性 Mod 的 Portal 时，建议低级玩家量力而行。各 Mod 的具体作用见 [Ingress 道具介绍][ingress_items_intro]。 Mod 在被攻击时有一定概率被摧毁，除 Shield 外均表现飞出 Portal 的动画，Shield 被摧毁时则表现为护盾闪烁红色。  
 
 [图片位置] 
 
