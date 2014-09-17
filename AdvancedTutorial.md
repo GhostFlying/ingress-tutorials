@@ -10,7 +10,10 @@ Deploy Resonator
 
 Deploy 操作要求 Portal 必须在玩家脚下的黄圈范围内，选择 Portal，点击 Deploy Status后，在新的界面里点击空的槽后选择下方对应的 Resonator 即可。每个玩家在每个 Portal 部署的不同等级的 Resonator 数量上有限制，具体参见 [Ingress 道具介绍][ingress_items_intro]。  
 
-[图片位置]  
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_SelectDeployResMarked.png" width="192" height="320" />
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_deployRes.png" width="192" height="320" />  
+
+
 
 
 Deploy Mod
@@ -20,7 +23,7 @@ Deploy Mod
 
 对每一个 Portal，每个玩家最多只能同时 Deploy 2个 Mod。  
 
-[图片位置]
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_deployedMod.png" width="192" height="320" /> 
 
 Link
 ----
@@ -61,7 +64,7 @@ Link Portal 是建立 Field 的前提，建立 Link 有一定的限制条件，�
 
 攻击 Portal 实际攻击的是 Portal 上 Deploy 的 Resonator，由于低等级的 XMP 攻击范围较近，且随着距离增加伤害衰减较为明显，因此寻找到 Resonator 的位置就显得很有必要。通常可以从地图上看到 Resonator 到 Portal 的连线，但如果附近 Portal 比较密集，较难区分不同 Portal 的 Resonator 时，可点击 Portal 详情页面的 Deploy Status，在其中选择 Resonator 查看具体的位置。  
 
-[图片位置] 
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_FindResLocation.png" width="192" height="320" /> 
 
 ### 攻击策略选择
 
@@ -73,7 +76,8 @@ Link Portal 是建立 Field 的前提，建立 Link 有一定的限制条件，�
 
 使用 XMP 攻击是绝大部分场合下的选择，在游戏主界面任一处长按，上滑选择 Fire XMP，出现选择界面后选择对应等级的 XMP，点按 Fire 即可。  
 
-[图片位置] 
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_long_press.png" width="192" height="320" />
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_selectXMP.png" width="192" height="320" />
 
 #### Ultra Strike
 
@@ -85,19 +89,24 @@ US 的使用和 XMP 类似，区别主要在 US 的攻击范围远小于 XMP，�
 
 毒的使用和前两者有一定不同，需要从物品栏里选择使用，然后再选择目标 Portal，毒的使用会消耗目标 Portal 等级 × 1000 的 XM，且**不会获得任何 AP**。通常仅建议在必要时使用，非常规选择。  
 
-[图片位置] 
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_JARVISPrepared.png" width="192" height="320" />
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_JARVISSelect.png" width="192" height="320" />
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_JARVISprogress.png" width="192" height="320" />
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_JARVISPregress2.png" width="192" height="320" />
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_selectXMP.png" width="192" height="320" />
 
 ### 集气
 
 XMP 和 US 的一种使用方法，长按 Fire 键，会出现从大到小不断变化的黄圈，在内侧释放时可以获得伤害加成，越靠近内侧越高，最高为 20%。  
 
-[图片位置] 
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_hold_marked.png" width="192" height="320" />
 
 ### MOD
 
 Mod 会显著影响到攻击 Portal 的难度，面对有较多防御性 Mod 的 Portal 时，建议低级玩家量力而行。各 Mod 的具体作用见 [Ingress 道具介绍][ingress_items_intro]。 Mod 在被攻击时有一定概率被摧毁，除 Shield 外均表现飞出 Portal 的动画，Shield 被摧毁时则表现为护盾闪烁红色。  
 
-[图片位置] 
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_Mod_Marked.png" width="192" height="320" />
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_ShieldDestroyedMarked.png" width="192" height="320" />
 
 ### 反击
 
@@ -105,12 +114,12 @@ Portal 被攻击时会对攻击者进行反击，在 Portal 较为密集的区�
 
 当 XM 被反击清空时，会出现雪花屏现象，此时玩家不能进行攻击, Hack 等操作，直到补充 XM 为止。  
 
-[图片位置] 
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_emptyXM.png" width="192" height="320" />
 
 如果反击伤害过高，可采用使用较低等级 Power Cube 或 Recycle 少量低等级道具，令 XM 仅满足 XMP 消耗的方法避免消耗太多 Power Cube。  
 
 ### 攻击结果说明
 
-[图片位置] 
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_AttackResult.png" width="192" height="320" />
 
 [ingress_items_intro]: https://github.com/GhostFlying/ingress-tutorials/blob/master/ItemsIntro.md
