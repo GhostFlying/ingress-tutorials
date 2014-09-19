@@ -40,17 +40,19 @@ Link Portal 是建立 Field 的前提，建立 Link 有一定的限制条件，�
 
 确认满足以上条件后，点开起始 Portal 的详情页面，在左下方选择 Link 按钮，稍作等待后便会在地图上显示附近可以 Link 的Portal，也可以在右侧点击 key 标志展开后选择自己拥有 key 且满足条件的 Portal。如果 Link 失败，下方会显示失败原因，可据此排除问题。  
 
-<img src="http://ghostflying-static.qiniudn.com/ingress_attack_PressLinkMarked.png" width="384" height="512" /> 
-<img src="http://ghostflying-static.qiniudn.com/ingress_attack_PressLinkMarked.png" width="384" height="512" /> 
-<img src="http://ghostflying-static.qiniudn.com/ingress_attack_PressLinkMarked.png" width="384" height="512" /> 
-<img src="http://ghostflying-static.qiniudn.com/ingress_attack_PressLinkMarked.png" width="384" height="512" /> <img src="http://ghostflying-static.qiniudn.com/ingress_attack_PressLinkMarked.png" width="384" height="512" /> 
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_PressLinkMarked.png" width="288" height="384" />
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_LinkSelectMarked.png" width="288" height="384" /> 
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_LinkSelect2Marked.png" width="288" height="384"/> 
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_LinkSelect3Marked.png.png" width="288" height="384"/> 
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_EstablishingLinkMarked.png" width="288" height="384"/> 
+
 
 建立 Field
 ----------
 
 当3个 Portal 两两建立 Link 后，便会自动建立 Field。Field 是阵营争夺的主要目标，根据 Field 大小的不同，会有不同的 MU，但获得的 AP 不变。  
 
-[图片位置]  
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_FieldCreatedMarked.png" width="288" height="384" /> 
 
 摧毁敌对阵营 Portal
 -------------------
@@ -86,7 +88,6 @@ Link Portal 是建立 Field 的前提，建立 Link 有一定的限制条件，�
 
 US 的使用和 XMP 类似，区别主要在 US 的攻击范围远小于 XMP，需要非常接近攻击目标才能有明显的效果。  
 
-[图片位置] 
 
 #### ADA/JARVIS
 
