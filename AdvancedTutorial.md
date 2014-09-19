@@ -54,6 +54,17 @@ Link Portal 是建立 Field 的前提，建立 Link 有一定的限制条件，�
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_attack_FieldCreatedMarked.png" width="288" height="384" /> 
 
+
+Recharge
+--------
+
+当 Portal 被 Capture 后，根据当前剧情的变化，所有 Resonator 的 XM 都会定时发生 Decay （目前是在每天 Portal 被 Capture 的时间 Decay 20%）。因此，为了保证 Portal 长期占领，需要对 Portal 进行 Recharge。除了走到 Portal 附近进行 Recharge 外，常用的方式是远程充电。该方式要求玩家持有被 Recharge 的 Portal 的 key，且根据距离有一定的充电效率和极限距离限制。  
+
+近距离充电和 Deploy 操作类似，当 Portal 处于控制范围内时，点击详情页面的 Recharge 即可，而远程充电需要从物品栏里找到对应 Portal 的 key，从此进入 Portal 的详情页以点击 Recharge，也可通过 COMM 里的链接进入。Recharge 时，既可以选择 Recharge All 对所有 Resonator 进行统一充电，也可以单独选择每一个 Resonator 进行 Recharge。  
+
+[图片位置]  
+
+
 摧毁敌对阵营 Portal
 -------------------
 
