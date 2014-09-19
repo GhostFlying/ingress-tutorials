@@ -7,7 +7,16 @@ Resonator
 
 Resonator 作为构筑 Portal 的基础道具，在游戏的进程中发挥着重要作用。Resonator 共有L1 - L8 8个等级。每个 Portal 的等级都由其8个 Resonator 决定，比较简单的算法是8个 Resonator 等级之和/8，即为 Portal 的等级。 
 
-每个玩家能部署在一个 Portal 上的不同等级的 Resonator 数量是有限的，从 L8 - L1 分别是 8 7 66 55 4444 3333 2222 11111111。  
+每个玩家能部署在一个 Portal 上的不同等级的 Resonator 数量是有限的，从 L8 - L1 分别是:
+
+* L8 不超过1个
+* L7 不超过1个
+* L6 不超过2个
+* L5 不超过2个
+* L4 不超过4个
+* L3 不超过4个
+* L2 不超过4个
+* L1 不超过8个
 
 玩家 Hack Portal 时能较大概率获得自身等级和 Portal 等级两者之中较低者 ±2 等级的 Resonator。 
 
@@ -148,7 +157,7 @@ Capsule 的获得概率相对较低，但也基本不存在什么消耗。
 Media
 -----
 
-游戏剧情影片，其中会隐藏有谜题，解开后可以获得可使用的 passcode，可在游戏里兑换道具，不过对已一般玩家而言意义并不大。此外，passcode 存在使用次数限制，因此超过一定时间的 Media 基本无用。  
+游戏剧情影片，其中会隐藏有谜题，解开后可以获得可使用的 passcode，可在游戏里兑换道具，不过对于一般玩家而言意义并不大。此外，passcode 存在使用次数限制，因此超过一定时间的 Media 基本无用。  
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_items_Media.png" width="192" height="320" />  
 
