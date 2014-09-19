@@ -55,5 +55,5 @@ Hack第一个Portal
 
 
 [ingress_problem_in_china]: https://github.com/GhostFlying/ingress-tutorials
-[ingress_items_intro]: https://github.com/GhostFlying/ingress-tutorials
-[ingress_advanced_tutorial]: https://github.com/GhostFlying/ingress-tutorials
+[ingress_items_intro]: https://github.com/GhostFlying/ingress-tutorials/blob/master/ItemsIntro.md
+[ingress_advanced_tutorial]: https://github.com/GhostFlying/ingress-tutorials/blob/master/AdvancedTutorial.md
