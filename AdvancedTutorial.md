@@ -43,7 +43,7 @@ Link Portal 是建立 Field 的前提，建立 Link 有一定的限制条件，�
 <img src="http://ghostflying-static.qiniudn.com/ingress_attack_PressLinkMarked.png" width="288" height="384" />
 <img src="http://ghostflying-static.qiniudn.com/ingress_attack_LinkSelectMarked.png" width="288" height="384" /> 
 <img src="http://ghostflying-static.qiniudn.com/ingress_attack_LinkSelect2Marked.png" width="288" height="384"/> 
-<img src="http://ghostflying-static.qiniudn.com/ingress_attack_LinkSelect3Marked.png.png" width="288" height="384"/> 
+<img src="http://ghostflying-static.qiniudn.com/ingress_attack_LinkSelect3Marked.png" width="288" height="384"/> 
 <img src="http://ghostflying-static.qiniudn.com/ingress_attack_EstablishingLinkMarked.png" width="288" height="384"/> 
 
 
