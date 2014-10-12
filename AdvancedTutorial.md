@@ -62,7 +62,10 @@ Recharge
 
 近距离充电和 Deploy 操作类似，当 Portal 处于控制范围内时，点击详情页面的 Recharge 即可，而远程充电需要从物品栏里找到对应 Portal 的 key，从此进入 Portal 的详情页以点击 Recharge，也可通过 COMM 里的链接进入。Recharge 时，既可以选择 Recharge All 对所有 Resonator 进行统一充电，也可以单独选择每一个 Resonator 进行 Recharge。  
 
-[图片位置]  
+<img src="http://ghostflying-static.qiniudn.com/ingress_rechargeSelect.png" width="288" height="384"/>
+<img src="http://ghostflying-static.qiniudn.com/ingress_rechargeAll.png" width="288" height="384"/>
+<img src="http://ghostflying-static.qiniudn.com/ingress_rechargeAlling.png" width="288" height="384"/>
+<img src="http://ghostflying-static.qiniudn.com/ingress_rechargeSingle.png" width="288" height="384"/>
 
 
 摧毁敌对阵营 Portal
