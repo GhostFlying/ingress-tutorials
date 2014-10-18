@@ -62,6 +62,8 @@ Recharge
 
 近距离充电和 Deploy 操作类似，当 Portal 处于控制范围内时，点击详情页面的 Recharge 即可，而远程充电需要从物品栏里找到对应 Portal 的 key，从此进入 Portal 的详情页以点击 Recharge，也可通过 COMM 里的链接进入。Recharge 时，既可以选择 Recharge All 对所有 Resonator 进行统一充电，也可以单独选择每一个 Resonator 进行 Recharge。  
 
+小技巧：Recharge时，可以先进行All Recharge，然后再单个Recharge。因为在每个Resonator将要被充满时，你将不必花费1000XM，就可以得到10AP的奖励。
+
 <img src="http://ghostflying-static.qiniudn.com/ingress_rechargeSelect.png" width="288" height="384"/>
 <img src="http://ghostflying-static.qiniudn.com/ingress_rechargeAll.png" width="288" height="384"/>
 <img src="http://ghostflying-static.qiniudn.com/ingress_rechargeAlling.png" width="288" height="384"/>
@@ -93,7 +95,7 @@ Recharge
 
 #### XMP
 
-使用 XMP 攻击是绝大部分场合下的选择，在游戏主界面任一处长按，上滑选择 Fire XMP，出现选择界面后选择对应等级的 XMP，点按 Fire 即可。  
+使用 XMP 攻击是绝大部分场合下的选择，在游戏主界面任一处长按，上滑选择 Fire XMP，出现选择界面后选择对应等级的 XMP，点按 Fire 即可。
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_attack_long_press.png" width="192" height="320" />
 <img src="http://ghostflying-static.qiniudn.com/ingress_attack_selectXMP.png" width="192" height="320" />
