@@ -5,7 +5,7 @@
 Resonator
 ---------
 
-Resonator 作为构筑 Portal 的基础道具，在游戏的进程中发挥着重要作用。Resonator 共有L1 - L8 8个等级。每个 Portal 的等级都由其8个 Resonator 决定，比较简单的算法是8个 Resonator 等级之和/8，即为 Portal 的等级。 
+Resonator 作为构筑 Portal 的基础道具，在游戏的进程中发挥着重要作用。Resonator 共有 L1 - L8 8个等级。每个 Portal 的等级都由其8个 Resonator 决定，比较简单的算法是8个 Resonator 等级之和/8，即为 Portal 的等级。 
 
 每个玩家能部署在一个 Portal 上的不同等级的 Resonator 数量是有限的，从 L8 - L1 分别是:
 
@@ -29,7 +29,7 @@ Portal Key 是游戏中主要道具之一，每次当你 Link Portal 时，都�
 
 Hack Portal 时，有一定几率可以获得对应 Portal 的 key，但是当你身上已经拥有对应 Portal 的 key 时，就不会再获得相同的 key，为了获取多把 key，可以采用先将 key 仍至地上或装到 Capsule 里的方法。  
 
-具体的 Link 和Field 注意事项参见 [Ingress 进阶教程][ingress_advanced_tutorial]。  
+具体的 Link 和 Field 注意事项参见 [Ingress 进阶教程][ingress_advanced_tutorial]。  
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_items_PortalKey.png" width="192" height="320" />
 
@@ -64,7 +64,7 @@ Ultra Strike 的攻击范围从 L1 - L8 分别为 10m，13m，16m，18m，21m，
 
 己方阵营的毒（如蓝毒对蓝军）通常用于摧毁较多 Link 的 Portal，敌对阵营的毒则多用于消除阻碍连 Field 的己方 Link。关于己方阵营的毒请注意，使用毒摧毁任何 Link, Field, Portal 不会获得任何 AP。  
 
-玩家 Hack Porral 时能低概率获得 ADA 和 JARVIS，没有等级区分。  
+玩家 Hack Portal 时能低概率获得 ADA 和 JARVIS，没有等级区分。  
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_items_JARVAS.png" width="192" height="320" />
 <img src="http://ghostflying-static.qiniudn.com/ingress_items_ADA.jpg" width="192" height="320" />
@@ -99,7 +99,7 @@ Link Amp 通过 Hack 只能获得 Rare 等级的，Very Rare 级别需要通过 
 
 ### Heat Sink
 
-Heat Sink 可以缩短 Portal 两次 Hack 之间的时间间隔，其有 Common, Rare, Very Rare 3个级别，分别减少 20%，50% 和 70% 的时间间隔。如一个 Portal 没有任何 Heat Sink Mod 时，两次 Hack 之间需要间隔5分钟以上，当插有一个 Rare 级别的 Heat Sink 时，仅需要 2.5分钟即可再次 Hack，这对于快速 Farm 有着比较重要的意义。  
+Heat Sink 可以缩短 Portal 两次 Hack 之间的时间间隔，其有 Common, Rare, Very Rare 3个级别，分别减少 20%，50% 和 70% 的时间间隔。如一个 Portal 没有任何 Heat Sink Mod 时，两次 Hack 之间需要间隔5分钟以上，当插有一个 Rare 级别的 Heat Sink 时，仅需要2.5分钟即可再次 Hack，这对于快速 Farm 有着比较重要的意义。  
 
 此外，Heat Sink 还可以立刻重置当前 Hack 冷却时间，甚至还包括 Burn out 的计时。因此其在迫切需要获得 Portal Key 的时候有着比较明显的意义。   
 
@@ -129,7 +129,7 @@ Multi-hack 的获得概率与 Heat Sink 相仿。
 
 Force Amp 能增加 Portal 对敌对玩家反击的伤害，仅有 Rare 级别，效果为反击伤害 +2X，通常用于保护 Portal，但没有 Portal Shield 的保护，仅有 Force Amp 的 Portal 非常脆弱。  
 
-当插有多个 Force Amp 时，其效果衰减类似于 Link Amp，第一个发挥 100% 的效果，第二个发挥 25% 的效果，其后仅有 12.5%的效果。  
+当插有多个 Force Amp 时，其效果衰减类似于 Link Amp，第一个发挥 100% 的效果，第二个发挥 25% 的效果，其后仅有 12.5% 的效果。  
 
 Force Amp 与 Rare 级别的其它 Mod 相比并不算低。  
 

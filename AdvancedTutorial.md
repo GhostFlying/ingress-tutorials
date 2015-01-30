@@ -8,7 +8,7 @@ Deploy Resonator
 
 无论是看到一个白色的无主 Portal，或者是摧毁了敌对阵营对 Portal 的占领，通常都会选择 Deploy Resonator 以 Capture Portal。而之后的 Link 也要求两侧的 Portal 必须 Deploy 所有的 Resonator。  
 
-Deploy 操作要求 Portal 必须在玩家脚下的黄圈范围内，选择 Portal，点击 Deploy Status后，在新的界面里点击空的槽后选择下方对应的 Resonator 即可。每个玩家在每个 Portal 部署的不同等级的 Resonator 数量上有限制，具体参见 [Ingress 道具介绍][ingress_items_intro]。  
+Deploy 操作要求 Portal 必须在玩家脚下的黄圈范围内，选择 Portal，点击 Deploy Status 后，在新的界面里点击空的槽后选择下方对应的 Resonator 即可。每个玩家在每个 Portal 部署的不同等级的 Resonator 数量上有限制，具体参见 [Ingress 道具介绍][ingress_items_intro]。  
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_attack_SelectDeployResMarked.png" width="192" height="320" />
 <img src="http://ghostflying-static.qiniudn.com/ingress_attack_deployRes.png" width="192" height="320" />  
@@ -35,10 +35,10 @@ Link Portal 是建立 Field 的前提，建立 Link 有一定的限制条件，�
 + 起始 Portal 必须在 Link 建立者的黄圈范围内，目标 Portal 必须在起始 Portal 的 Link 范围内（在 Deploy Status 页面可以看到）  
 + 建立者需要持有目标 Portal 的 key，且每次 Link 都会消耗一把，关于 key 的积累，参见 [Ingress 道具介绍][ingress_items_intro]  
 + 试图建立的 Link 不能穿越任何已经存在的 Link 和 Field  
-+ 不能从 Field 内部的 Portal 向其它Portal Link  
-+ 任何 Portal 最多只能 Link 到 8个其它 Portal，但被 Link 不受限制  
++ 不能从 Field 内部的 Portal 向其它 Portal Link  
++ 任何 Portal 最多只能 Link 到8个其它 Portal，但被 Link 不受限制  
 
-确认满足以上条件后，点开起始 Portal 的详情页面，在左下方选择 Link 按钮，稍作等待后便会在地图上显示附近可以 Link 的Portal，也可以在右侧点击 key 标志展开后选择自己拥有 key 且满足条件的 Portal。如果 Link 失败，下方会显示失败原因，可据此排除问题。  
+确认满足以上条件后，点开起始 Portal 的详情页面，在左下方选择 Link 按钮，稍作等待后便会在地图上显示附近可以 Link 的 Portal，也可以在右侧点击 key 标志展开后选择自己拥有 key 且满足条件的 Portal。如果 Link 失败，下方会显示失败原因，可据此排除问题。  
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_attack_PressLinkMarked.png" width="288" height="384" />
 <img src="http://ghostflying-static.qiniudn.com/ingress_attack_LinkSelectMarked.png" width="288" height="384" /> 
@@ -62,7 +62,7 @@ Recharge
 
 近距离充电和 Deploy 操作类似，当 Portal 处于控制范围内时，点击详情页面的 Recharge 即可，而远程充电需要从物品栏里找到对应 Portal 的 key，从此进入 Portal 的详情页以点击 Recharge，也可通过 COMM 里的链接进入。Recharge 时，既可以选择 Recharge All 对所有 Resonator 进行统一充电，也可以单独选择每一个 Resonator 进行 Recharge。  
 
-小技巧：Recharge时，可以先进行All Recharge，然后再单个Recharge。因为在每个Resonator将要被充满时，你将不必花费1000XM，就可以得到10AP的奖励。
+小技巧：Recharge 时，可以先进行 All Recharge，然后再单个 Recharge。因为在每个 Resonator 将要被充满时，你将不必花费 1000XM，就可以得到 10AP 的奖励。
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_rechargeSelect.png" width="288" height="384"/>
 <img src="http://ghostflying-static.qiniudn.com/ingress_rechargeAll.png" width="288" height="384"/>
@@ -73,7 +73,7 @@ Recharge
 摧毁敌对阵营 Portal
 -------------------
 
-除了部分玩家较少的区域，绝大部分区域里，Poratl 通常都处于被占领的状态，对于敌对阵营的 Portal，摧毁并占领是常见的选择。此节主要为相关内容教学。  
+除了部分玩家较少的区域，绝大部分区域里，Portal 通常都处于被占领的状态，对于敌对阵营的 Portal，摧毁并占领是常见的选择。此节主要为相关内容教学。  
 
 ### 战前检查
 
@@ -123,7 +123,7 @@ XMP 和 US 的一种使用方法，长按 Fire 键，会出现从大到小不断
 
 ### MOD
 
-Mod 会显著影响到攻击 Portal 的难度，面对有较多防御性 Mod 的 Portal 时，建议低级玩家量力而行。各 Mod 的具体作用见 [Ingress 道具介绍][ingress_items_intro]。 Mod 在被攻击时有一定概率被摧毁，除 Shield 外均表现飞出 Portal 的动画，Shield 被摧毁时则表现为护盾闪烁红色。  
+Mod 会显著影响到攻击 Portal 的难度，面对有较多防御性 Mod 的 Portal 时，建议低级玩家量力而行。各 Mod 的具体作用见 [Ingress 道具介绍][ingress_items_intro]。Mod 在被攻击时有一定概率被摧毁，除 Shield 外均表现飞出 Portal 的动画，Shield 被摧毁时则表现为护盾闪烁红色。  
 
 <img src="http://ghostflying-static.qiniudn.com/ingress_attack_Mod_Marked.png" width="192" height="320" />
 <img src="http://ghostflying-static.qiniudn.com/ingress_attack_ShieldDestroyedMarked.png" width="192" height="320" />
