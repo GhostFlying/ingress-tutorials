@@ -1,10 +1,6 @@
 ingress-tutorials
 =================
 
-
-*本教程已停止更新，相关工作将会陆续迁移到 https://github.com/hz-ingress/ingress-tutorial 欢迎关注或合作撰写新的教程*
-
-
 ![Logo][logo]
 
 本项目为面向 Ingress 基础教程，主要面向 [Hangzhou Resistance](http://www.hzres.net/) 社群，同时也欢迎其它 Ingress玩家参考。  
